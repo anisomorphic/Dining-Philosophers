@@ -1,0 +1,4 @@
+Michael Harris - COP4520 Assignment 1, Problem 2 - Dining Philosophers
+
+Subproblem 4: Please note this version needs an integer argument from the
+command line which represents the number of simultaneous diners.
